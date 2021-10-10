@@ -11,7 +11,7 @@ kaboom({
   const JUMP_FORCE = 360
   const BIG_JUMP_FORCE = 550
   let CURRENT_JUMP_FORCE = JUMP_FORCE
-  const FALL_DEATH = 00
+  const FALL_DEATH = 1000
   const ENEMY_SPEED = 20
   
   // Game logic
